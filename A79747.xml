@@ -1,0 +1,147 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A candle for the blinde citizens of London, to see by: by a freeman of the same city, though of neither ranke or quality, yet reall in heart, fearing God, honouring his King, and a lover of truth, peace, and the brotherhood. With Englands farewell from its ancient prosperity, to its new change of misery.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79747</idno>
+            <idno type="STC">Wing C424</idno>
+            <idno type="STC">Thomason E465_12</idno>
+            <idno type="STC">ESTC R205185</idno>
+            <idno type="EEBO-CITATION">99864617</idno>
+            <idno type="PROQUEST">99864617</idno>
+            <idno type="VID">162273</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162273)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 74:E465[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A candle for the blinde citizens of London, to see by: by a freeman of the same city, though of neither ranke or quality, yet reall in heart, fearing God, honouring his King, and a lover of truth, peace, and the brotherhood. With Englands farewell from its ancient prosperity, to its new change of misery.</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeer of blindnes, the month of stupidnes, the day of dulnes, and the hour of unnaturalnes. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "8ber [i.e. October] 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162273:1" rendition="simple:additions"/>
+            <p>A CANDLE For the blinde CITIZENS OF LONDON, To ſee by:</p>
+            <p>By a Freeman of the ſame City, though of neither ranke or quality, yet reall in heart, fearing God, honouring his King, and a Lover of Truth, Peace, and the Brotherhood.</p>
+            <p>With Englands farewell from its ancient proſpe<g ref="char:EOLhyphen"/>rity, to its new change of miſery.</p>
+            <p>Printed in the yeer of blindnes, the month of ſtupidnes, the day of dulnes, and the hour of unnaturalnes. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:162273:2"/>
+            <pb n="3" facs="tcp:162273:2"/>
+            <head>A Candle lighted for the blind Citizens of London, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg> Know well enough that the Citizens eyes are not yet opened; for they have not ſuffered yet ſufficiently, nor fee<g ref="char:EOLhyphen"/>lingly; neither doe they know that England is almoſt deſtroyed, or that their King is ſecured, or their ſtates waſted, or their fellow Citizens abuſed, and which is worſt of all, their Religion loſt, and their God blaſphe<g ref="char:EOLhyphen"/>med; and have they not then need of a candle lighted to ſee all this by? They might have foreſeene this be<g ref="char:EOLhyphen"/>fore if they would, they then were but purblinde, but now they are quite ſtarke ſtaring blinde; it is ſo hid from their eyes, that they can ſee nothing at all: Tell me yee Citizens, did yee ever heare of any Nation in the world ſo abuſed as this is, and brought into ſuch ſla<g ref="char:EOLhyphen"/>very by their fellowes as wee are, worſe then the Ae<g ref="char:EOLhyphen"/>gyptian bondage? was ever any Nation under Heaven ſo robbed of their Religion (their chiefeſt interreſt) of their prviledges, of their freedomes, of their liberties, of their rights, and of their eſtates purchaſed with their owne penny; and yet will ſit ſtill, and neither ſay or doe any thing? Surely they have neede of a candle lighted to ſee by: Why where are your hearts become, what is it you feare, are you afraid to ſpeake, then you will never ſpeed? Are you afraid to act any thing? Have you put your hand to the plow, and do you draw back? This is a baſe cowardiſe; no, feare not their faces
+<pb n="4" facs="tcp:162273:3"/>nor their threats; faint hearts never kiſt faire Ladies, you know; are you content to open your doores to let theeves in to cut your throats, or take your goods from you, and never make any reſiſtance? Are your hands ſo faſt tyed that they cannot be undone? Do ye feare the Parliament, that they are ſo mighty, and have the command of Sea and L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd? If they be, you may thanke your ſelves for it, who made them ſo? Did not you ſend your men and horſes, money and plate to them? Wherefore believed you their Orders, Ordi<g ref="char:EOLhyphen"/>nances, Votes? Wherefore pay you Exciſe and ſeaſ<g ref="char:EOLhyphen"/>ments? Wherefore let you them plunder your fellow Subjects, and make ſlaves of them? For behold how they inſult over you, and yet you cannot, neither will you ſee, and therefore you have need of a candle ligh<g ref="char:EOLhyphen"/>ted for to ſee by: Diviſions ſwarme more and more, without the leaſt controle; envy is ſeen in the faces of men, and Rebellion is fine ſport; blood is ſpilt as wa<g ref="char:EOLhyphen"/>ter upon the ground, and unnaturall and inhumane dea<g ref="char:EOLhyphen"/>ling with one another, is a paſtime for ſuch fooles: ſure<g ref="char:EOLhyphen"/>ly if you were not ſtarke blinde, you might eaſily ſee, or you will not ſee becauſe you have a finger in the pie; you have wetted your hand in the Exciſe Office, and that hath got you 2 or 3 hundred a yeare, when as be<g ref="char:EOLhyphen"/>fore your credit was ſo far loſt, that your beſt friends would not truſt you for a Noble: or you have got a Committees place, and that hath ſet you a cock horſe, that you can buy Biſhops Lands, and write your ſelfe Biſhop of ſuch a place; when as indeed you were but a broken Uſurper; or were it that you were but a poore Clarke of a Committee riſen out of a ſtoake hole, this hath made you a Gentleman, that a good ſubſtantiall
+<pb n="5" facs="tcp:162273:3"/>Citizen is faine to ſtand cap in hand to your Worſhippes brich; or have you been a Traytour, and hath this made you hold up your head, becauſe you could ſpeake treaſon in defi<g ref="char:EOLhyphen"/>ance of who dares? Indeed if you have your hands in any of theſe, or the like, I blame you not for being ſo blinde that you cannot ſee; but I feare your conſcience is not ſmitten with any ſuch forrow for ſuch offences, it is ſeared with a hot iron, tis hardned in rebellions, and which way to come off with credit you cannot tell, and ſo you run on u<g ref="char:EOLhyphen"/>pon the ſcore, and make the breach bigger, till at laſt you run headlong to hell to the Divell, whoſe counſell you have lollowed.</p>
+            <p>Wherefore yee blinde Lord Mayer and Aldermen; O ye dull and ſtupid Common-Counſell men, and O ye beſotted and benummed Citizens, looke up and ſee if you can ſee this candle burne; hath the two great Lights of the King<g ref="char:EOLhyphen"/>dome ſhone ſo bright, that the looking upon them hath daz<g ref="char:EOLhyphen"/>led your eyes, and ſmote you with blindneſſe that you can ſee no more, that you are as blinde as beetles? What means all theſe delayes and excuſes? What meanes this ſpinning out of time, 'tis only a fine web to katch you in? What meanes this word ſo often repeated, we give you thankes? (of which my cat dyed) after the preſenting of your hum<g ref="char:EOLhyphen"/>ble Petitions, as you call them: Truely 'tis only to feed you with delayes, and to keepe you in hand till they have brought about their owne ends; know you not, that whilſt you humbly petition for peace (they enviouſly prepare for war) and have thankes given you for your care, and you can go away as content and as cheerefully, and ſo well fed and refreſht, as if you had been at the beſt banquet in the world, or got ſuch a purchaſe not to be valued at? Truely with ſuch toyes fooles are ſoone pleaſed, and thankes is good e<g ref="char:EOLhyphen"/>nough to ſtop your mouthes withall, and ſo be ſent away with a flea in your eare, even as wiſe as you went: I would make a boy of 7 yeares old doe as good an errant, or I would know a reaſon wherefore; which makes me thinke that this candle will give you no light to ſee by becauſe it is
+<pb n="6" facs="tcp:162273:4"/>but a candle to the Sun? Yet it may give a little light that you may perceive your condition.</p>
+            <p>The whole world lookes upon ſuch blinde ſtupidneſſe, the Nations about us admire at your ſimplicity, that ſuch a re<g ref="char:EOLhyphen"/>puted City, with wiſe and valiant Citizens, of ſuch diſcreti<g ref="char:EOLhyphen"/>on, judgement, wit, pollicy, and government, ſhould now at laſt be fooled out, this is not to be borne withall; you are more ready to helpe and ſend reliefe, men, armes, and am<g ref="char:EOLhyphen"/>munition, to a company of Rebels, then to relieve a poore Colcheſter diſtreſſed City, from whence many thouſands have their wealth; you had rather loſe your Marchandize, and trading, and ſhipping, then to ſend a little mony to his Highneſſe to relieve his wants; you had rather ſee men and horſe liſted to fight againſt you, then to liſt for your owne ſafety, which if you ſhould doe, and be queſtioned for it, you will cry <hi>peccavi,</hi> you'l doe ſo no more, and ſo you will let it fall to the ground, that ſo an inſolent and proud domi<g ref="char:EOLhyphen"/>neering Souldier may undoe us all.</p>
+            <p>Are you ſo blinde ſtill that you cannot ſee? take this can<g ref="char:EOLhyphen"/>dle and hold it to your noſes; ſee if you can ſee; unto what a vaſt expence have you brought us to, by going dayly to Weſtminſter to guard them, that neither feare God or re<g ref="char:EOLhyphen"/>gard man: how is the wealth of this floriſhing City decay<g ref="char:EOLhyphen"/>ed? how many thouſand of Subjects bloud hath been ſpilt? how many times have you beene deluded by bare votes? how many aſſeſſments have been made to fetch our money? how many mens eſtates have beene ſequeſtred? how many Biſhops Lands have beene ſold? how much pole-money, meale-money, and contributions have beene given? how much compoſition money hath been received? how many plundred goods have beene ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d? How much plate and mo<g ref="char:EOLhyphen"/>ney hath beene brought into Guild-hall, of which we ſhall never ſee uſe nor principall? how many thouſand pounds out of His Majeſties Revenues, and out of the cuſtome<g ref="char:EOLhyphen"/>houſe? and how much hath beene payd at the excize Office, and many others which my memory failes to ſpeake of? as money gived to the Scots, to the reliefe of Ireland, the buy<g ref="char:EOLhyphen"/>ing
+<pb n="7" facs="tcp:162273:4"/>of Iriſh Land, for coales, for collections, and I know not what, and of what one of theſe can there be a true ac<g ref="char:EOLhyphen"/>coumpt given? and yet the Citizens cannot ſee, and there<g ref="char:EOLhyphen"/>fore have need of a candle lighted, and if it bee but to ſee how many thouſands of ſoules have beene ſent to their un<g ref="char:EOLhyphen"/>timely ends, and for all this our Citizens ſtill run poſt haſt to fulfill every command of theirs and be ready to performe it in as dutifull and reſpective manner as can be done; which makes me think that the older the Citizens be, the more childiſh they grow, and that great men are not alwayes wiſe; for who would have thought that the Fathers of the mother City of three Kingdomes ſhould have proved ſuch d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nces, ſo blockiſh, and ſo wedded to their owne foo<g ref="char:EOLhyphen"/>liſhneſſe, that blindneſſe is their father that begat them, and fearfullneſſe their mother that brings them up? ſo that now wee may bid a farewell to all our former injoyments, and take up this, lamentation, (and all long of ſuch Aſſes I had almoſt ſaid) farewell to the King and Prince; for we have got <hi>Thomas</hi> and <hi>Oliver;</hi> farewell Biſhops, for wee have got Elders; farewell councell table, for we have got Gold<g ref="char:EOLhyphen"/>ſmiths Hall; farewell High commiſſion Court, for wee have got cloſe Committees; farewell Pattentees, for wee have got Excize and ſeſſments; farewell head for we have members; farewell juſtice, for we have got juſt Aſſes; farewell Government, for heere is Liberty of conſcience; farewell good neighbourhood, for heere is baſe envy; fare<g ref="char:EOLhyphen"/>well money and Plate, for we have got the publique faith; farewell Religion, for we have got ſuperſtition; farewell Roundhead and Cavaleer, for we have got Shimies and Rab<g ref="char:EOLhyphen"/>ſhakehs; farewell conſcience, for wee have got a Parlia<g ref="char:EOLhyphen"/>ment; farewell Lords and Ladies, for we have got Souldiers and their Laffes; farewell Nobility, for wee will have all common; farewell Common prayer, for wee have a Dire<g ref="char:EOLhyphen"/>ctory; farewell a preaching Miniſtry, for we have got pra<g ref="char:EOLhyphen"/>ting Coblers; farewell Pulpits, for we have got Tubs; fare<g ref="char:EOLhyphen"/>well Saints, for wee have got Divells; farewell Loyalty, for heere is Rebellion; farewell honeſty, for we have got hypo<g ref="char:EOLhyphen"/>criſie;
+<pb facs="tcp:162273:5"/>fare well Churches and Chappels, for we have got barnes and ſtables; farewell freedome, for we have got ſla<g ref="char:EOLhyphen"/>very; and farewell citizens, for we are made Aſſes: Thus we may bid a farewell to all that ever wee have injoyed; for by ſuch meanes a well governed Kingdome is brought to deſtruction, and who may we thank for this but the fore<g ref="char:EOLhyphen"/>headed Saints that have brought us into ſuch a purgatory, which was wont to be at Rome, but now abides in En<g ref="char:EOLhyphen"/>gland? O here is a ſweet reſurrection, a reſurrection to de<g ref="char:EOLhyphen"/>ſtruction; if we were not blinde to ſee it, for ſuch confuſi<g ref="char:EOLhyphen"/>on comes by ſhaking off loyalty, and joyning hands with rebellion; this City hath beene the nurſe that hath brought it up and dandled it on her knees and give it ſuck, that it is growne to ſuch a height of impudency that it dares call into queſtion the unſpotted life of the Lords anoynted.</p>
+            <p>I will not propheſie againſt thee thou great City, but I will be ſo bold to tell thee, that through thy meanes and in thee is all manner of wicked<g ref="char:EOLhyphen"/>nes maintained, and thou muſt ſpeedily-ſuffer except thou take this can<g ref="char:EOLhyphen"/>dle lighted to ſee by, for thou haſt plotted thy owne deſtruction, and o<g ref="char:EOLhyphen"/>thers alſo; for it is nigh at hand, and thou art ſinking; tis not the gol<g ref="char:EOLhyphen"/>den chaines about my Lords neck, or the Aldermens, or the great places of preferment that will ſecure them from vengeance; no but let them rather take ropes about their necks and go to the King of England, for he is a mercifull King; and peradventure they may finde acceptance; for tis high time to leave off diſſembling: You have proteſted, vowed, and covenanted, with hands lifted up to the moſt high; but neither Proteſta<g ref="char:EOLhyphen"/>tion, vow, or Covenant will you keepe: Take this candle in your owne hands and ſee if you bee not a company of perfidious wretches, and blinde Citizens: You have troubled your Common Councel-men day after day, and almoſt whole nights have been conſumed in canvaſing the affaires of the City, and what hath been produced? ye were as very fooles when you made an end as when you began, notwithſtanding you had candles ligh<g ref="char:EOLhyphen"/>ted to ſee by: The ſweet proffits that have come into ſome of your pur<g ref="char:EOLhyphen"/>ſes from the Common people hath blinded your eyes that you cannot ſee, when many a poore creature is turned out of all, and ready to ſtarve, and you ſtand inſulting over them, that men are become wolves to one no<g ref="char:EOLhyphen"/>ther: you have had fourſcore faſting dayes ſince theſe troubles, beſides other dayes of humiliation to enlighten your eyes, and yet you are blinde, and there hath been 21 thankſgiving dayes at leaſt, when you have rejoy<g ref="char:EOLhyphen"/>ſed and feaſted your ſelves at divers Hals in triumph, for joy of the (kil<g ref="char:EOLhyphen"/>ling) victories of the Kings good ſubjects, as if it were a ſport to you to deſtroy them: and for ſhame wipe your eyes, that you may ſee your folly, and leave off your aſſiſting of Rebels, leſt you purchaſe a Rebels reward both to your ſelves and your poſterity.</p>
+            <p>My candle is out.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
